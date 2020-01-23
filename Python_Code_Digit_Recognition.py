@@ -3,12 +3,6 @@
 
 # In[387]:
 
-
-# Northeastern University - Fall 2019 
-# ALY6020 - Predictive Analytics
-# Marco Montes de Oca
-
-# Assignment 3 - Submitted By Nidhi Shah
 print("********** Start of the Code ***********")
 
 
@@ -275,8 +269,6 @@ plt.xlabel("Predicted")
 
 print("*********** End of the Code **************")
 
-
-# In[ ]:
 
 
 
